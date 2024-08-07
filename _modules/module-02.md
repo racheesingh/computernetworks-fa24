@@ -4,7 +4,7 @@ title: Module  2 - Gut of the network (physical layer and data link layer)
 
 Sep 11
 : [Physical layer -- Fiber Optics]()
-  :[]()
+  : []()
 
 
 Sep 16
