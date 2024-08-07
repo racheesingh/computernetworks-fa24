@@ -12,7 +12,8 @@ Sep 02
 
 Sep 04
 : [Performance metrics]()
-  : [P&D, Section 1.3, 1.5]()
+  : [P&D, Section 1.3, 1.5]() **Homework 1 Released**{: .label .label-purple }
+
 
 Sep 09
 : [Performance (continued) and Layering]()

@@ -14,7 +14,7 @@ Sep 16
 
 Sep 18
 : [Data Link Layer -- Ethernet]()
-  : [P&D, Section 3.2.1 & Section 3.2.2	]()
+  : [P&D, Section 3.2.1 & Section 3.2.2	]() **HW 1 due**{: .label .label-red }
 
 
 Sep 23
@@ -24,7 +24,7 @@ Sep 23
 
 Sep 25
 : [Data Link Layer -- Spanning Tree Protocol (continued)](https://canvas.cornell.edu/files/10005496/download?download_frd=1)
-  : **HW 1 due**{: .label .label-red }[]()
+  : []() **Homework 2 Released**{: .label .label-purple }	
 
 Sep 25
 : [Prelim 1 Review Session]()
