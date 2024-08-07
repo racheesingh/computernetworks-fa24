@@ -18,7 +18,7 @@ students how computer networks have evolved to accommodate a growing number of I
 the rise of cloud computing, warehouse-scale datacenters etc.
 
 # Logistics of the course
-The class meets on Mondays and Wednesdays at Klarman Hall KG70 from 2.55 PM to 4.10 PM.
+The class meets on Mondays and Wednesdays in Hollister Hall B14 from 2.55 PM to 4.10 PM.
 
 # Course Syllabus
 [Here](assets/syllabus/CS4450:CS5456-syllabus.pdf) is the course syllabus.
