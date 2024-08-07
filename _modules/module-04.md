@@ -2,28 +2,36 @@
 title: Module  4 - Endpoints of the network (Reliable Transport)
 ---
 
-April 1
-: [No class]()
-  : [Spring break]()
-
-April 3
-: [No class]()
-  : [Spring break]()
-
-April 8
+November 11
 : [Reliable Transport]()
   :  []()
 
-
-April 10
-: [Reliable Transport]()
+November 13
+: [Socket Programming]()
   : []()
 
-April 15
+November 18
+: [Reliable Transport]()
+  :  []()
+
+November 20
 : [TCP/IP]()
   : []()
 
-April 17
+November 25
+: [TCP/IP]()
+  : []()
+
+December 02
 : [DNS]()
   : []()
+
+December 04
+: [Guest Lecture]()
+  : []()
+
+December 09
+: [Putting it all together]()
+  : []()
+
 

@@ -2,14 +2,18 @@
 title: Module  1 - Architecture and design principles
 ---
 
-Jan 24
-: [Circuit vs. Packets](https://canvas.cornell.edu/files/9812971/download?download_frd=1)
+August 28
+: [Circuit vs. Packets]()
   : [Optional Reading: P&D, Section 1.2	]()
 
-Jan 29
-: [Performance metrics](https://canvas.cornell.edu/files/9841309/download?download_frd=1)
+September 02
+: [No class]()
+  : [Labor Day]()
+
+September 04
+: [Performance metrics]()
   : [P&D, Section 1.3, 1.5]()
 
-Jan 31
-: [Performance (continued) and Layering](https://canvas.cornell.edu/files/9854506/download?download_frd=1)
-  : [Section 1.3, 1.5]()
+September 09
+: [Performance (continued) and Layering]()
+  : [Section 1.3, 1.5]() 

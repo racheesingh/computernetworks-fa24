@@ -2,55 +2,51 @@
 title: Module  3 - Gut of the network (Network Layer)
 ---
 
-Feb 26
-: [No class]()
-  : [February break]()
-
-Feb 28
+October 02
 : [Fundamentals of routing]() 
   : [P&D, Section 3.3]()
 
-Mar 01
-: **Homework 2 Released**{: .label .label-purple }[]()
- : []()
- 
-Mar 04
+October 07
 : [Link State Routing]()
   : [P&D, Section 3.2, Section 3.4]()
 
-Mar 06
+October 09
 : [Distance Vector Routing]()
   : [P&D, Section 3.2, Section 3.4]()
 
-Mar 11
-: [BGP]()
-  :  []()
+October 14 
+: [No class]()
+  : [Fall Break]()
 
-Mar 13
-: [BGP]()
-  : [P&D, Section 3.2, Section 3.4]()
-
-Mar 15
-: **HW 2 due**{: .label .label-red }[]()
- : []() 
-
-Mar 18
+October 16 
 : [BGP]()
   : [P&D, Section 3.2, Section 3.4]()
 
-Mar 20
+October 21
+: [BGP]()
+  : [P&D, Section 3.2, Section 3.4]()
+
+October 23
+: [BGP]()
+  : [P&D, Section 3.2, Section 3.4]()
+
+October 28
 : [Practical realities: switches and routers]()
   : [P&D, Section 3.2, Section 3.4]()
 
-Mar 25
+October 30
 : [Practical realities: switches and routers (continued)]()
   : [P&D, Section 3.2, Section 3.4]()
 
-Mar 25
+November 04
+: [Guest Lecture]()
+  : []()
+
+November 04
 : [Prelim 2 Review Session]()
   : 7.30 - 930 PM, Gates G01
 
-Mar 27
+November 06
 : [Prelim 2]()
   : **Prelim Exam**{: .label .label-red}[]()
 
