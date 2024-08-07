@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS4450/5456 Introduction to Computer Networks
+title: CS4450/5456 Introduction to Computer Networks (Fall 2024)
 nav_exclude: true
 permalink: /:path/
 seo:
