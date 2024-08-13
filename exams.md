@@ -12,7 +12,7 @@ Before each exam, we will hold a review session. Details of the review session w
 
 # Venue of Exam
 The two prelim exams will be held in Hollister Hall B14. This is the usual classroom where we have lectures.
-For students with SDS accomodations, the exam will be held in Gates Hall Room 122. 
+For students with SDS accomodations, Prelim 1 will be in Phillips 318 and Prelim 2 will be in Hollister 306.
 
 # Prelim 1
 Questions in this exam will be based on content taught until the lecture before the exam. You can bring one page (A4 size or smaller) of notes to the exam.

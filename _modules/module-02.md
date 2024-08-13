@@ -28,7 +28,7 @@ Sep 25
 
 Sep 25
 : [Prelim 1 Review Session]()
-  : 7 - 9 PM, Gates G01
+  : 7 - 9 PM, Phillips 101
 
 Sep 30
 : [Prelim 1]()

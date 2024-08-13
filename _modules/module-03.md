@@ -44,7 +44,7 @@ Nov 04
 
 Nov 04
 : [Prelim 2 Review Session]()
-  : 7.30 - 930 PM, Gates G01
+  : 7 - 9 PM, Phillips 101
 
 Nov 06
 : [Prelim 2]()
