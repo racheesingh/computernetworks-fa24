@@ -1,6 +1,6 @@
 ---
 name: Ken Cula
-role: MEng Teaching Assistant
+role: Teaching Assistant
 email: kc874@cornell.edu
 website: https://www.linkedin.com/in/kenneth-cula
 photo: ken.jpg
