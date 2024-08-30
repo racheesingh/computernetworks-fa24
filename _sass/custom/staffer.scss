@@ -3,10 +3,10 @@
   margin: $sp-4 0;
 
   .staffer-image {
-    border-radius: 50%;
-    height: 100px;
+    clip-path: circle();
+    height: auto;
+    width: 100px;
     margin-right: $sp-4;
-    width: auto;
   }
 
   .anchor-heading {
@@ -31,7 +31,10 @@
   }
 
   .staffer-meta {
-    dt, dd, dd + dt {
+
+    dt,
+    dd,
+    dd+dt {
       margin-top: 0;
     }
   }
