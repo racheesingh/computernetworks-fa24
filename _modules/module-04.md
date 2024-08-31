@@ -27,7 +27,7 @@ Dec 02
   : []()
 
 Dec 04
-: [Guest Lecture]()
+: [Guest Lecture by Dr. Jeff Mogul from Google]()
   : []()
 
 Dec 09
