@@ -31,16 +31,16 @@ Oct 23
   : [P&D, Section 3.2, Section 3.4]()
 
 Oct 28
-: [Practical realities: switches and routers]()
-  : [P&D, Section 3.2, Section 3.4]()
+: [Guest Lecture by Dr. Meryem Simsek from Bell Labs]()
+  : []()
 
 Oct 30
-: [Practical realities: switches and routers (continued)]()
+: [Practical realities: switches and routers]()
   : [P&D, Section 3.2, Section 3.4]() **HW 3 due**{: .label .label-red }
 
 Nov 04
-: [Guest Lecture]()
-  : []()
+: [Practical realities: switches and routers (continued)]()
+  : [P&D, Section 3.2, Section 3.4]()
 
 Nov 04
 : [Prelim 2 Review Session]()
