@@ -4,5 +4,5 @@ role: Teaching Assistant
 email: sj728@cornell.edu
 photo: sebastian.jpg
 meta:
-  Office Hours: Rhodes 402, Monday 5:15pm-7:15pm
+  Office Hours: Rhodes 503 Monday 5:30pm-7:00pm, Rhodes 402 Tuesday 6:30pm-7:00pm
 ---
