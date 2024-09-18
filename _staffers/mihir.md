@@ -5,5 +5,5 @@ email: mrm367@cornell.edu
 website: 
 photo: mihir.jpg
 meta:
-  Office Hours: Rhodes 503 Monday 5:30 - 6:30 PM, Rhodes 404 Wednesday 5:00 - 6:00 PM
+  Office Hours: Rhodes 503 Monday 5:30 - 6:30 PM, Rhodes 402 Wednesday 5:30 - 6:30 PM
 ---
