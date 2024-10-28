@@ -1,5 +1,5 @@
 ---
-title: Welcome to CS4450/5456: Introduction to computer networks!
+title: Welcome to CS4450/5456 - Introduction to computer networks!
 week: 1
 date: 2024-08-07
 ---
