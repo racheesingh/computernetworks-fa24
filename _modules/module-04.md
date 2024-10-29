@@ -34,4 +34,6 @@ Dec 09
 : [Putting it all together]()
   : []()
 
-
+Dec 15
+: [Final Exam]()
+  : 2PM, Olin Hall 155
