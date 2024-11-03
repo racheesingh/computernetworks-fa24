@@ -37,4 +37,6 @@ Dec 09
 : [Putting it all together]()
   : []() **HW 4 due**{: .label .label-red }
 
-
+Dec 15
+: [Final Exam]()
+  : 2PM, Olin Hall 155
