@@ -7,20 +7,23 @@ Nov 11
   :  []()
 
 Nov 13
-: [Socket Programming]()
-  : []()
+: [Reliable Transport]()
+  : []() **HW 3 due**{: .label .label-red } **Homework 4 Released**{: .label .label-purple }
 
 Nov 18
-: [Reliable Transport]()
+: [Hands-on Socket Programming Session]()
   :  []()
 
 Nov 20
 : [TCP/IP]()
-  : []() **HW 4 due**{: .label .label-red }
+  : []() 
 
 Nov 25
 : [TCP/IP]()
   : []()
+  
+Nov 27
+: [No class, Thanksgiving Break]()
 
 Dec 02
 : [DNS]()
@@ -32,6 +35,6 @@ Dec 04
 
 Dec 09
 : [Putting it all together]()
-  : []()
+  : []() **HW 4 due**{: .label .label-red }
 
 

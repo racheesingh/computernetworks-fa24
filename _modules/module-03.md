@@ -20,11 +20,11 @@ Oct 14
 
 Oct 16 
 : [BGP]()
-  : [P&D, Section 3.2, Section 3.4]() **Homework 3 Released**{: .label .label-purple }
+  : [P&D, Section 3.2, Section 3.4]() 
 
 Oct 21
 : [BGP]()
-  : [P&D, Section 3.2, Section 3.4]()
+  : [P&D, Section 3.2, Section 3.4]() **Homework 3 Released**{: .label .label-purple }
 
 Oct 23
 : [BGP]()
@@ -36,7 +36,7 @@ Oct 28
 
 Oct 30
 : [Practical realities: switches and routers]()
-  : [P&D, Section 3.2, Section 3.4]() **HW 3 due**{: .label .label-red }
+  : [P&D, Section 3.2, Section 3.4]() 
 
 Nov 04
 : [Practical realities: switches and routers (continued)]()
@@ -48,5 +48,5 @@ Nov 04
 
 Nov 06
 : [Prelim 2]()
-  : **Prelim Exam**{: .label .label-red}[]() **Homework 4 Released**{: .label .label-purple }
+  : **Prelim Exam**{: .label .label-red}[]() 
 

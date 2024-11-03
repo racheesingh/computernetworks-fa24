@@ -16,17 +16,17 @@ For students with SDS accomodations, Prelim 1 will be in Phillips 318 and Prelim
 
 # Prelim 1
 Questions in this exam will be based on content taught until the lecture before the exam. You can bring one page (A4 size or smaller) of notes to the exam.
-This page can have printed or hand-written content. In Fall 2024, Prelim 1 is (tentatively) on 30th September 2024, Monday.
+This page can have printed or hand-written content. In Fall 2024, Prelim 1 is on 30th September 2024, Monday.
 
 # Prelim 2
 Questions in this exam will be based on content taught until the lecture before the exam (including the content covered by Prelim 1).
 You can bring two pages (A4 size or smaller) of notes to the exam. These pages can have printed or hand-written content.
-In Fall 2024, Prelim 2 is (tentatively) on 6th November 2024, Wednesday.
+In Fall 2024, Prelim 2 is on 6th November 2024, Wednesday.
 
 # Final
 Questions in this exam will be based on content taught until the lecture before the exam (including the content covered by Prelims 1 and 2).
-You can bring three pages (A4 size or smaller) of notes to the exam. These pages can have printed or hand-written content. The date/time and location
-of the final is TBD.
+You can bring three pages (A4 size or smaller) of notes to the exam. These pages can have printed or hand-written content. The final exam for Fall 2024 is on [December 15th in OLH155](https://registrar.cornell.edu/exams/fall-final-exam-schedule).
+
 
 
 
